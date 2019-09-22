@@ -8,15 +8,15 @@ Here i'm used the East text detection model to detect the texts. after detecting
 
 ### Prerequisites
 
-* pytesseract
+* Pytesseract
 
-* flask
+* Flask
 
 * OpenCV
 
 * PILLOW
 
-* pdf2img
+* Pdf2img
 
 * EAST text detection model
 
