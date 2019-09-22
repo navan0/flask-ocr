@@ -12,6 +12,10 @@ Here i'm used the East text detection model to detect the texts. after detecting
 
 * flask
 
+* OpenCV
+
+* PILLOW
+
 * pdf2img
 
 * EAST text detection model
