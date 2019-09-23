@@ -41,7 +41,7 @@ The project is showing only 20% accuracy on test set. but it'can be improved by 
 ## Deployment
 
 
-* [Deployed on Google compute engine](http://35.226.34.234:5001/) - upload your pdf to test
+[Deployed on Google compute engine](http://35.226.34.234:5001/) - upload your pdf to test
 
 ## License
 
