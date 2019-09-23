@@ -4,7 +4,8 @@ Invoice extractor extract key value pairs from a invoice
 
 ## Getting Started
 
-Here i'm used the East text detection model to detect the texts. after detecting the texts it will go throught the tesseract and extract the key values
+Here we have used the * [East text detection model]https://arxiv.org/abs/1704.03155) to detect the texts. after detecting the texts it will go through the tesseract and extract the key values
+
 
 ### Prerequisites
 
