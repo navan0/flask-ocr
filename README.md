@@ -4,7 +4,7 @@ Invoice extractor extract key value pairs from a invoice
 
 ## Getting Started
 
-Here we have used the * [East text detection model]https://arxiv.org/abs/1704.03155) to detect the texts. after detecting the texts it will go through the tesseract and extract the key values
+Here we have used the [East text detection model](https://arxiv.org/abs/1704.03155) to detect the texts. after detecting the texts it will go through the tesseract and extract the key values
 
 
 ### Prerequisites
@@ -41,7 +41,7 @@ The project is showing only 20% accuracy on test set. but it'can be improved by 
 ## Deployment
 
 
-[Deployed on Google compute engine](http://35.226.34.234:5001/) - upload your pdf to test
+*[Deployed on Google compute engine](http://35.226.34.234:5001/) - upload your pdf to test
 
 ## License
 
