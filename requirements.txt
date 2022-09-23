@@ -22,7 +22,7 @@ numpy==1.16.2
 oauthlib==2.1.0
 pdf2image==1.7.1
 Pillow==6.0.0
-protobuf==3.7.1
+protobuf==3.18.3
 pyparsing==2.4.0
 pyscreenshot==0.5.1
 PySocks==1.6.8
